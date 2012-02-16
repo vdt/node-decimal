@@ -1,4 +1,4 @@
-This is a decimal library for node.js which supports arbitrarily large numbers using substack/node-bigint
+This is a decimal library for node.js which supports arbitrarily large numbers built on top of https://github.com/substack/node-bigint
 
 ## install
 
