@@ -1,0 +1,22 @@
+{
+  "author": "Roman Shtylman <shtylman@gmail.com>",
+  "name": "decimal",
+  "description": "decimal library for node.js with support for large numbers",
+  "version": "1.0.0",
+  "contributors" : ["Vadim Graboys <dimva13@gmail.com>"],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bitfloor/node-decimal.git"
+  },
+  "main": "decimal.js",
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "dependencies": {
+    "bigint": "0.3.8"
+  },
+  "devDependencies": {
+    "nodeunit": "0.7.3"
+  },
+  "optionalDependencies": {}
+}
