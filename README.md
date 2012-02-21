@@ -2,6 +2,8 @@ This is a decimal library for node.js which supports arbitrarily large numbers b
 
 ## install
 
+You will need libgmp3 development package installed to install node-decimal. On debian systems this is the libgmp3-dev package.
+
 ```shell
 npm install git://github.com/bitfloor/node-decimal.git
 ```
